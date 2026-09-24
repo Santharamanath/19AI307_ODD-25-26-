@@ -94,7 +94,8 @@ public class Main {
 ```
 
 ## OUTPUT:
-<img width="1305" height="421" alt="image" src="https://github.com/user-attachments/assets/eeb88f1e-f93f-45dd-834f-83000f671341" />
+
+<img width="828" height="687" alt="image" src="https://github.com/user-attachments/assets/c76034c2-425e-4f0c-be5e-7fc7c224b387" />
 
 ## RESULT:
 The Java program was executed successfully. Thread synchronization was implemented using the synchronized keyword, ensuring that multiple threads accessed the shared resource one at a time without simultaneous execution of the synchronized method.
